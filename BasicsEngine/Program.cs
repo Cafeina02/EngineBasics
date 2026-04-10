@@ -3,7 +3,7 @@ using Silk.NET.OpenGL; //llamar a la libreria Silk.NET.OpenGL para poder usar Op
 
 WindowOptions options = WindowOptions.Default with //crea una variable opciones donde se asigna los valores que tendra por default la ventana.
 {
-    Size = new(800, 600),
+    Size = new(1200, 1200),
     Title = "GL/Silk"
 };
 
