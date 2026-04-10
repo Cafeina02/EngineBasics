@@ -1,4 +1,4 @@
-﻿using Silk.NET.Windowing; //llamar a la libreria Silk.NET.Windowing para poder crear y manejar ventanas.
+using Silk.NET.Windowing; //llamar a la libreria Silk.NET.Windowing para poder crear y manejar ventanas.
 using Silk.NET.OpenGL; //llamar a la libreria Silk.NET.OpenGL para poder usar OpenGL en la ventana.
 
 WindowOptions options = WindowOptions.Default with //crea una variable opciones donde se asigna los valores que tendra por default la ventana.
